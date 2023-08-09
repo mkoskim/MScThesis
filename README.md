@@ -1,2 +1,2 @@
-# MSc Thesis
-My MSc Thesis, "Constructing a General Purpose Cellular Computer"
+# Master's Thesis
+My Master's Thesis, "Constructing a General Purpose Cellular Computer"
